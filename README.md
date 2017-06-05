@@ -1,4 +1,4 @@
-# Basic Blog with React and Redux
+# Basic Blog Frontend with React, Redux, Redux Form and React Router
 
 It supports: fetch posts, fetch one post, create post, delete post
 
